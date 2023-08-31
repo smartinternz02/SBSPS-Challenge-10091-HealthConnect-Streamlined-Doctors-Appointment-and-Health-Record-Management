@@ -32,3 +32,20 @@ Welcome to HealthConnect, your all-in-one solution for efficient doctor's appoin
 Join us in transforming healthcare management. Contribute to HealthConnect on GitHub and make a difference! 🌈
 
 #healthcare #appointment #medicalrecords #IBMCloud #GitHub #Bootstrap
+
+
+
+
+#   Installation:
+
+We set up the SkillSwap application and its dependencies:
+
+  1. Installed Flask:
+         pip install Flask
+
+     
+  2.Installed the ibm_db library:
+      docker run -p 8080:80 skillswap-app
+
+      
+
