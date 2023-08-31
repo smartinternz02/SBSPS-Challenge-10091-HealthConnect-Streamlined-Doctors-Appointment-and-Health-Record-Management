@@ -41,11 +41,46 @@ Join us in transforming healthcare management. Contribute to HealthConnect on Gi
 We set up the SkillSwap application and its dependencies:
 
   1. Installed Flask:
+
+         
          pip install Flask
 
      
   2.Installed the ibm_db library:
-      docker run -p 8080:80 skillswap-app
 
-      
+       
+      pip install ibm_db
+
+
+
+
+### Deployment with Docker:
+
+We deploy the SkillSwap application using Docker:
+
+1. Build the Docker image:
+
+       docker build -t skill .
+
+2. Run the Docker container:
+
+       docker run -p 5000:5000 skill
+    
+     
+3. For To Tag:
+
+       3.1 docker login
+       3.2 docker tag skill venkateswarlu2001/empowerskills
+
+4. To Push The Image:
+
+       docker push venkateswarlu2001/empowerskills
+
+
+
+### Links:
+
+- [GitHub Repository](https://github.com/yourusername/empower-skill)
+- [Live Demo](https://www.example.com/skillswap)
+   
 
