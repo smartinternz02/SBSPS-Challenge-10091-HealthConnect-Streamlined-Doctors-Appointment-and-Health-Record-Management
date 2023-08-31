@@ -106,11 +106,15 @@ We deploy the SkillSwap application using Docker:
 
 
 
-
-
-
 ### Links:
-
+- [Credly Badge: Journey to cloud:Envisioning your solution](https://www.credly.com/badges/25c92e1e-b074-4be3-8b98-1492a5122c0a/public_url)
+- [Credly Badge: Getting Started With Enterprise Data Science](https://www.credly.com/badges/9a4113cd-3c97-4403-bb78-35c7a0909d65/public_url)
+- [Credly Badge: Journey to cloud:Envisioning your solution](https://www.credly.com/badges/490399bf-9cec-4165-8391-ac278b03ef5b/public_url)
+- [Credly Badge: Getting Started With Enterprise Data Science](https://www.credly.com/badges/132e57f7-6b73-4c80-87d7-54f631376988/public_url)
+- [Credly Badge: Journey to cloud:Envisioning your solution](https://www.credly.com/badges/7c8dab98-bdd6-484d-b624-e380f3b1993f/public_url)
+- [Credly Badge: Getting Started With Enterprise Data Science](https://www.credly.com/badges/7b35f93c-5ba5-408e-a65e-aa2073f9ec83/public_url)
+- [Credly Badge: Journey to cloud:Envisioning your solution](https://www.credly.com/badges/7492aabb-71eb-43a6-83b8-21b3665a5ccd/public_url)
+- [Credly Badge: Getting Started With Enterprise Data Science](https://www.credly.com/badges/cc480c82-ade6-4a2a-a008-1542d85c922a/public_url)
 - [GitHub Repository](https://github.com/yourusername/empower-skill)
 - [Live Demo](https://www.example.com/skillswap)
    
