@@ -116,6 +116,6 @@ We deploy the SkillSwap application using Docker:
 - [Credly Badge: Journey to cloud:Envisioning your solution](https://www.credly.com/badges/7492aabb-71eb-43a6-83b8-21b3665a5ccd/public_url)
 - [Credly Badge: Getting Started With Enterprise Data Science](https://www.credly.com/badges/cc480c82-ade6-4a2a-a008-1542d85c922a/public_url)
 - [GitHub Repository](https://github.com/yourusername/empower-skill)
-- [Live Demo](https://www.example.com/skillswap)
+- [Live Demo](https://yt.oia.bio/project-demo-link-doctor-appointment-booking)
    
 
